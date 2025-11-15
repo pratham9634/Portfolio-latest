@@ -49,6 +49,15 @@ const Projects = () => {
 
   const fullstackProjects = [
     {
+      image: "/Campus_cart.jpeg",
+      tags: "Full Stack",
+      title: "Campus Cart",
+      description:
+        "Campus Cart is a marketplace for college students to buy, sell, and bid on second-hand items. It offers secure authentication, item listings, and a bidding system, helping students exchange goods easily while promoting sustainability and community within their campus.",
+      github: "https://github.com/pratham9634/CampusCart",
+      live: "https://campus-cart.vercel.app/",
+    },
+    {
       image: "https://tse3.mm.bing.net/th/id/OIP.mBiUh6nShdoFAAdSd8R4eQHaHa?r=0&cb=thfvnext&pid=ImgDet&w=199&h=199&c=7&dpr=1.3&o=7&rm=3",
       tags: "Full Stack",
       title: "Real-Time Chat Application",
@@ -66,7 +75,7 @@ const Projects = () => {
         "A collection of productivity tools including Youtube Playlist Duration & Quick File Sharing, built with extensibility in mind.",
       github: "https://github.com/pratham9634/Tools",
       live: "https://tools-xi-five.vercel.app/",
-    },
+    }
   ];
 
   const upcomingProjects = [

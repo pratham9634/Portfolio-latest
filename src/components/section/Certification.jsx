@@ -6,12 +6,6 @@ import { useInView } from "react-intersection-observer";
 
 const certifications = [
   {
-    title: "Data Analytics Internship Certificate",
-    provider: "CSRBOX and IBM",
-    imgSrc: "/ibm_certificate.jpg",
-    link: "https://drive.google.com/file/d/1hVkTjLkZ3pKT3oTBYd_OmgNew0Fw-lI4/view?usp=drivesdk"
-  },
-  {
     title: "Introduction to Machine Learning",
     provider: "NPTEL",
     imgSrc: "/Nptel_Machine_Learning.jpeg",

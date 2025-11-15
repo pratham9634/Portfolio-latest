@@ -116,7 +116,7 @@ const About = () => {
           </p>
           <div>
             <a
-              href="https://drive.google.com/file/d/1hAXTH8xqUb6tfISNPv1eB4kL0gkPdIVT/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1X4bxQf5UaHz79k8yynDkVFVHsyAu4_YS/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white font-semibold rounded-lg shadow-lg hover:opacity-90 hover:scale-105 transform transition-all duration-300"
